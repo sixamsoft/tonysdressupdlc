@@ -4,9 +4,9 @@
 
 This a framework based on the core components of Tony's Dress Up. In it are the base button scenes with their functionality, located in `res://scenes/clothes/base` and `res://scripts/clothing`, needed for changing the character.
 
-Following the base game, you put all clothing sprites in `res://sprites/clothes`, inherent from one of the button bases, change the button sprite with your sprite, and save them to their respective scene folders. These will be detected by the game and automatically added to their respective tabs. This template comes from example  clothing to get a feel
+Following the base game, you put all clothing sprites in `res://sprites/clothes`, inherent from one of the button bases, change the button sprite with your sprite, and save them to their respective scene folders. These will be detected by the game and automatically added to their respective tabs.
 
-Finally, you only need to export the PCK. You can do this by going to `Export &gt; (any template) &gt; Export PCK/Zip`.
+Finally, you only need to export the PCK. You can do this by going to `Export > (any template) > Export PCK/Zip`.
 
 ### Prerequisites
 
